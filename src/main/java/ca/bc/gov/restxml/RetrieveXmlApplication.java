@@ -8,6 +8,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 @SpringBootApplication
 public class RetrieveXmlApplication extends SpringBootServletInitializer {
 
+	//Main method
 	public static void main(String[] args) {
 		SpringApplication.run(RetrieveXmlApplication.class, args);
 	}
