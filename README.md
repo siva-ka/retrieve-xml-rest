@@ -1,2 +1,1 @@
-# retrieve-xml-rest
-This is a sample webservice
+# Retrieve-xml-rest
